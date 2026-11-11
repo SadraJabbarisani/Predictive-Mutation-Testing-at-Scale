@@ -1,0 +1,5 @@
+# Fast smoke-test configuration (~1 minute). Inherits everything from default.yaml.
+inherit: default.yaml
+seeds: 3
+model: {params: {n_estimators: 100}}
+rq4: {n_suites: 6, seeds: 2}

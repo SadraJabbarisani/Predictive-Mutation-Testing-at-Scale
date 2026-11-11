@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+<block classname='toy.graph.Graph' method='&lt;init&gt;(IZ)V' number='2'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='&lt;init&gt;(IZ)V' number='3'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='edge(III)V' number='3'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='&lt;init&gt;(IZ)V' number='4'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='edge(III)V' number='6'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='&lt;init&gt;(IZ)V' number='5'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='&lt;init&gt;(IZ)V' number='0'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='edge(III)V' number='10'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='&lt;init&gt;(IZ)V' number='1'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='edge(III)V' number='9'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='&lt;init&gt;(IZ)V' number='6'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='edge(III)V' number='0'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='&lt;init&gt;(IZ)V' number='7'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='edge(III)V' number='2'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='components()I' number='13'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='edge(III)V' number='1'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='components()I' number='12'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='bfsRuns()V' number='0'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='bfsRuns()V' number='1'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='bfsRuns()V' number='6'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='bfsRuns()V' number='7'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='bfsRuns()V' number='4'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='bfsRuns()V' number='5'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='bfsRuns()V' number='2'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='bfsRuns()V' number='3'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='3'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.UnionFind' method='find(I)I' number='2'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='2'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='1'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.UnionFind' method='find(I)I' number='0'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='0'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.UnionFind' method='find(I)I' number='1'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='&lt;init&gt;()V' number='0'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.UnionFind' method='union(II)Z' number='8'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.UnionFind' method='union(II)Z' number='6'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='&lt;init&gt;()V' number='1'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.UnionFind' method='union(II)Z' number='7'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.UnionFind' method='union(II)Z' number='4'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.UnionFind' method='union(II)Z' number='2'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.UnionFind' method='union(II)Z' number='3'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.UnionFind' method='union(II)Z' number='0'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.UnionFind' method='union(II)Z' number='1'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='23'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='22'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='21'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='20'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.UnionFind' method='count()I' number='0'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='7'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='6'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='5'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='4'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='11'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='10'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='9'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='8'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='15'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.UnionFind' method='&lt;init&gt;(I)V' number='0'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='14'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.UnionFind' method='&lt;init&gt;(I)V' number='1'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='13'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.UnionFind' method='&lt;init&gt;(I)V' number='2'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='12'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.UnionFind' method='&lt;init&gt;(I)V' number='3'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='19'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.UnionFind' method='&lt;init&gt;(I)V' number='4'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='18'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='17'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='bfs(I)Ljava/util/List;' number='16'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='components()I' number='11'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='components()I' number='10'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='components()I' number='9'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='components()I' number='8'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='components()I' number='7'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='components()I' number='6'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='components()I' number='5'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='components()I' number='4'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='edge(III)V' number='12'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='components()I' number='3'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='edge(III)V' number='11'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='components()I' number='2'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='edge(III)V' number='14'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='components()I' number='1'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='edge(III)V' number='13'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='components()I' number='0'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='edge(III)V' number='15'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:bfsRuns()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='topo()V' number='0'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='topo()V' number='1'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='topo()V' number='2'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='topo()V' number='3'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='topo()V' number='4'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='topo()V' number='5'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='topo()V' number='6'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='44'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='47'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='41'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='40'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='43'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='42'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='37'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='36'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='39'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='38'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='33'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='32'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='35'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='34'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='29'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='28'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='31'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='30'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='25'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='24'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='27'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='26'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='21'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='20'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='23'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='22'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='17'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='topo()V' number='7'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='16'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='topo()V' number='8'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='19'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='topo()V' number='9'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='18'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='13'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='12'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='15'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='14'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='9'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='8'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='11'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='10'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='5'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='4'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='7'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='6'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='0'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='topoSort()Ljava/util/List;' number='3'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:topo()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='0'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='2'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='1'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='8'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='7'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='10'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='9'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='4'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='lambda$dijkstra$0([J)J' number='0'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='3'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='6'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='5'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='16'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='dijkstra()V' number='7'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='15'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='dijkstra()V' number='8'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='18'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='17'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='12'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='dijkstra()V' number='3'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='11'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='dijkstra()V' number='4'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='14'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='dijkstra()V' number='5'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='13'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='dijkstra()V' number='6'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='dijkstra()V' number='0'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='dijkstra()V' number='1'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.GraphTest' method='dijkstra()V' number='2'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='20'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='19'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+<block classname='toy.graph.Graph' method='dijkstra(I)[J' number='21'><tests>
+<test name='toy.graph.GraphTest.[engine:junit-jupiter]/[class:toy.graph.GraphTest]/[method:dijkstra()]'/>
+</tests>
+</block>
+</coverage>

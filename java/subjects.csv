@@ -1,0 +1,18 @@
+name,git_url,target_classes,junit5_plugin,split,enabled,notes
+toy-bank,local,toy.bank.*,1.2.3,train,1,bundled subject: accounts / interest
+toy-geometry,local,toy.geometry.*,1.2.3,train,1,bundled subject: triangles / polygons
+toy-text,local,toy.text.*,1.2.3,train,1,bundled subject: string utils / similarity
+toy-collections,local,toy.coll.*,1.2.3,train,1,bundled subject: stack / queue / heap
+toy-math,local,toy.math.*,1.2.3,train,1,bundled subject: fractions / primes / stats
+toy-date,local,toy.date.*,1.2.3,train,1,bundled subject: calendar arithmetic
+toy-parser,local,toy.parser.*,1.2.3,train,1,bundled subject: calculator / roman / csv
+toy-inventory,local,toy.inv.*,1.2.3,train,1,bundled subject: orders / discounts
+toy-graph,local,toy.graph.*,1.2.3,heldout,1,bundled subject (held-out until final eval)
+toy-validator,local,toy.valid.*,1.2.3,heldout,1,bundled subject (held-out until final eval)
+commons-cli,https://github.com/apache/commons-cli.git,org.apache.commons.cli.*,1.2.3,train,0,real project - set enabled=1 to collect
+commons-csv,https://github.com/apache/commons-csv.git,org.apache.commons.csv.*,1.2.3,train,0,real project
+commons-codec,https://github.com/apache/commons-codec.git,org.apache.commons.codec.binary.*,1.2.3,train,0,real project (binary pkg only)
+commons-validator,https://github.com/apache/commons-validator.git,org.apache.commons.validator.routines.checkdigit.*,1.2.3,train,0,real project
+commons-text,https://github.com/apache/commons-text.git,org.apache.commons.text.similarity.*,1.2.3,train,0,real project
+commons-lang,https://github.com/apache/commons-lang.git,org.apache.commons.lang3.math.*,1.2.3,heldout,0,real project (held-out)
+commons-collections,https://github.com/apache/commons-collections.git,org.apache.commons.collections4.bidimap.*,1.2.3,heldout,0,real project (held-out)

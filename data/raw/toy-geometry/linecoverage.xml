@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+<block classname='toy.geometry.Polygon' method='isConvex()Z' number='13'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='isConvex()Z' number='12'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='isConvex()Z' number='15'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='square()Ltoy/geometry/Polygon;' number='1'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='isConvex()Z' number='16'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='square()Ltoy/geometry/Polygon;' number='2'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='isConvex()Z' number='19'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='isConvex()Z' number='18'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='square()Ltoy/geometry/Polygon;' number='0'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='isConvex()Z' number='7'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='isConvex()Z' number='6'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='isConvex()Z' number='9'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='isConvex()Z' number='8'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='isConvex()Z' number='11'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='&lt;init&gt;()V' number='0'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:quadrant()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='isConvex()Z' number='10'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='isConvex()Z' number='1'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='isConvex()Z' number='0'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='add(Ltoy/geometry/Point;)Ltoy/geometry/Polygon;' number='0'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='add(Ltoy/geometry/Point;)Ltoy/geometry/Polygon;' number='1'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='convex()V' number='2'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='convex()V' number='3'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='convex()V' number='0'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='convex()V' number='1'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='&lt;init&gt;()V' number='0'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='&lt;init&gt;()V' number='2'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='&lt;init&gt;()V' number='1'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='&lt;init&gt;()V' number='1'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:quadrant()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='square()Ltoy/geometry/Polygon;' number='5'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='square()Ltoy/geometry/Polygon;' number='6'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='square()Ltoy/geometry/Polygon;' number='3'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Point' method='&lt;init&gt;(DD)V' number='1'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:quadrant()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='square()Ltoy/geometry/Polygon;' number='4'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Point' method='&lt;init&gt;(DD)V' number='0'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:quadrant()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='square()Ltoy/geometry/Polygon;' number='9'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='square()Ltoy/geometry/Polygon;' number='7'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='square()Ltoy/geometry/Polygon;' number='8'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:convex()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Point' method='quadrant()I' number='7'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:quadrant()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Point' method='quadrant()I' number='1'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:quadrant()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Point' method='quadrant()I' number='0'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:quadrant()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Point' method='quadrant()I' number='3'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:quadrant()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Point' method='quadrant()I' number='5'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:quadrant()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Point' method='quadrant()I' number='4'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:quadrant()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='quadrant()V' number='0'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:quadrant()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='quadrant()V' number='1'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:quadrant()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='quadrant()V' number='2'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:quadrant()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='quadrant()V' number='3'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:quadrant()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Point' method='distance(Ltoy/geometry/Point;)D' number='0'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='squarePerimeter()V' number='3'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Point' method='distance(Ltoy/geometry/Point;)D' number='1'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='squarePerimeter()V' number='6'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='squarePerimeter()V' number='5'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='perimeter()D' number='1'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='perimeter()D' number='0'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='perimeter()D' number='7'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='perimeter()D' number='6'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='perimeter()D' number='8'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='perimeter()D' number='3'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='perimeter()D' number='2'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='perimeter()D' number='5'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='perimeter()D' number='4'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='squarePerimeter()V' number='0'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='squarePerimeter()V' number='2'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='squarePerimeter()V' number='1'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squarePerimeter()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='area()D' number='3'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='area()D' number='5'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='squareArea()V' number='0'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='area()D' number='4'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='area()D' number='7'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='area()D' number='6'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='area()D' number='9'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='area()D' number='8'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='area()D' number='11'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='area()D' number='10'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='squareArea()V' number='2'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='squareArea()V' number='1'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.PolygonTest' method='squareArea()V' number='3'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='area()D' number='1'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.Polygon' method='area()D' number='0'><tests>
+<test name='toy.geometry.PolygonTest.[engine:junit-jupiter]/[class:toy.geometry.PolygonTest]/[method:squareArea()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='&lt;init&gt;()V' number='1'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:equilateral()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidInequality()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidZero()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:isosceles()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:rightTriangle()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:scalene()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='invalidZero()V' number='0'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidZero()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='&lt;init&gt;()V' number='0'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:equilateral()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidInequality()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidZero()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:isosceles()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:rightTriangle()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:scalene()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='invalidZero()V' number='2'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidZero()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='invalidZero()V' number='1'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidZero()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='classify(III)Ltoy/geometry/TriangleClassifier$Kind;' number='0'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:equilateral()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidInequality()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidZero()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:isosceles()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:scalene()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier$Kind' method='&lt;init&gt;(Ljava/lang/String;I)V' number='0'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidZero()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier$Kind' method='&lt;init&gt;(Ljava/lang/String;I)V' number='1'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidZero()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier$Kind' method='&lt;clinit&gt;()V' number='0'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidZero()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier$Kind' method='&lt;clinit&gt;()V' number='4'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidZero()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier$Kind' method='&lt;clinit&gt;()V' number='3'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidZero()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier$Kind' method='&lt;clinit&gt;()V' number='2'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidZero()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier$Kind' method='&lt;clinit&gt;()V' number='1'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidZero()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='classify(III)Ltoy/geometry/TriangleClassifier$Kind;' number='3'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidZero()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier$Kind' method='&lt;clinit&gt;()V' number='5'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidZero()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='classify(III)Ltoy/geometry/TriangleClassifier$Kind;' number='1'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:equilateral()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidInequality()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:isosceles()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:scalene()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='classify(III)Ltoy/geometry/TriangleClassifier$Kind;' number='2'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:equilateral()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidInequality()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:isosceles()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:scalene()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='classify(III)Ltoy/geometry/TriangleClassifier$Kind;' number='4'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:equilateral()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidInequality()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:isosceles()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:scalene()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='equilateral()V' number='0'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:equilateral()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='classify(III)Ltoy/geometry/TriangleClassifier$Kind;' number='5'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:equilateral()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:isosceles()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:scalene()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='equilateral()V' number='1'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:equilateral()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='classify(III)Ltoy/geometry/TriangleClassifier$Kind;' number='6'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:equilateral()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:isosceles()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:scalene()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='equilateral()V' number='2'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:equilateral()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='classify(III)Ltoy/geometry/TriangleClassifier$Kind;' number='8'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:equilateral()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:isosceles()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:scalene()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='classify(III)Ltoy/geometry/TriangleClassifier$Kind;' number='9'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:equilateral()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:isosceles()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='classify(III)Ltoy/geometry/TriangleClassifier$Kind;' number='10'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:equilateral()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='area(III)D' number='0'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='area(III)D' number='1'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='classify(III)Ltoy/geometry/TriangleClassifier$Kind;' number='11'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:isosceles()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:scalene()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='classify(III)Ltoy/geometry/TriangleClassifier$Kind;' number='12'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:scalene()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='classify(III)Ltoy/geometry/TriangleClassifier$Kind;' number='13'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:scalene()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='classify(III)Ltoy/geometry/TriangleClassifier$Kind;' number='15'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:scalene()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='area()V' number='1'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='area()V' number='2'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='area(III)D' number='3'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='area()V' number='0'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='area(III)D' number='4'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:area()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='isRight(III)Z' number='4'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:rightTriangle()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='isRight(III)Z' number='3'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:rightTriangle()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='rightTriangle()V' number='1'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:rightTriangle()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='rightTriangle()V' number='0'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:rightTriangle()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='isRight(III)Z' number='0'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:rightTriangle()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='rightTriangle()V' number='3'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:rightTriangle()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='rightTriangle()V' number='2'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:rightTriangle()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='isRight(III)Z' number='2'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:rightTriangle()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='isRight(III)Z' number='1'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:rightTriangle()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='rightTriangle()V' number='4'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:rightTriangle()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='isosceles()V' number='1'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:isosceles()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='isosceles()V' number='0'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:isosceles()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='isosceles()V' number='2'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:isosceles()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='classify(III)Ltoy/geometry/TriangleClassifier$Kind;' number='14'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:isosceles()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='scalene()V' number='2'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:scalene()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='scalene()V' number='1'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:scalene()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='scalene()V' number='0'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:scalene()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='invalidInequality()V' number='2'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidInequality()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='invalidInequality()V' number='1'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidInequality()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifierTest' method='invalidInequality()V' number='0'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidInequality()]'/>
+</tests>
+</block>
+<block classname='toy.geometry.TriangleClassifier' method='classify(III)Ltoy/geometry/TriangleClassifier$Kind;' number='7'><tests>
+<test name='toy.geometry.TriangleClassifierTest.[engine:junit-jupiter]/[class:toy.geometry.TriangleClassifierTest]/[method:invalidInequality()]'/>
+</tests>
+</block>
+</coverage>

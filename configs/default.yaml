@@ -1,0 +1,62 @@
+# فارسی: همه‌ی پارامترهای آزمایش اینجاست؛ هر عددی در results/ از همین فایل تولید می‌شود.
+# Full experiment configuration.  Every number in results/ is produced from this file.
+# Override any key from the CLI:  python -m pmt run --config configs/default.yaml --set seeds=5
+seed: 42
+seeds: 30                       # repetitions of every stochastic method (RQ2/RQ4)
+
+paths:
+  raw: data/raw                 # data/raw/<project>/mutations.xml (+src/, meta.json)
+  processed: data/processed
+  subjects: java/subjects.csv   # split column: train / heldout
+  results: results
+
+dataset:
+  source: pit                   # pit | synthetic | generic_csv
+  generic_csv: null             # path when source=generic_csv (see docs/DATA_FORMAT.md)
+  synthetic: {n_projects: 12, mutants_per_project: [300, 1500], seed: 7}
+
+exploit_no_coverage: true       # uncovered mutants = survived for free (applies to ALL methods) | فارسی: بدون پوشش = زنده، برای همه‌ی روش‌ها
+
+model:
+  name: xgboost                 # xgboost | lightgbm | rf | logreg | hgb
+  params: {}
+  calibration: isotonic         # isotonic | sigmoid | none
+  feature_groups: [operator, static, coverage, oracle]
+
+baselines:
+  pmt: {model: rf}              # PMT re-implementation (random forest, PMT feature set, hard labels)
+  seshat_lite: {}               # token-based (TF-IDF of mutated line) logistic regression
+
+budgets: [0.05, 0.10, 0.20]     # fraction of all mutants that may be executed | فارسی: درصد mutant مجاز برای اجرا
+
+methods:                        # name -> estimator options (see pmt/estimators.py) | فارسی: روش‌های مقایسه‌شده و تنظیماتشان
+  random: {}
+  stratified: {strata: op_family}
+  selective: {}
+  pmt: {}
+  seshat_lite: {}
+  model_only: {}
+  active_topk: {}
+  # فارسی: روش پیشنهادی؛ rounds=تعداد دور، policy=سیاست انتخاب، mix=سهم یکنواخت، adapt=تطبیق، combine=ترکیب EB
+  ace: {rounds: 4, policy: hybrid, mix: 0.3, adapt: platt, neighbors: [], combine: true, ci: normal}
+
+ablation:                       # RQ5 | فارسی: حذف اجزا
+  feature_groups: [operator, static, coverage, oracle]
+  variants:                     # each = ACE default with one component changed
+    ace_uniform_sampling: {policy: uniform}
+    ace_uncertainty_only: {policy: uncertainty}
+    ace_no_adaptation: {adapt: none}
+    ace_no_combination: {combine: false}
+    ace_plus_neighbors: {neighbors: [line]}
+    ace_single_round: {rounds: 1}
+    ace_uncalibrated_model: {_calibration: none}
+  budget: 0.10
+
+# فارسی: RQ4 - رتبه‌بندی زیرمجموعه‌های تست
+rq4:
+  n_suites: 20                  # random sub-suites per project
+  keep_prob: 0.5                # each test kept with this probability
+  budget: 0.10
+  seeds: 5
+
+evaluate_heldout: true          # final evaluation on held-out projects (train on all train projects)

@@ -1,0 +1,16 @@
+[project]
+name = "pmt-team8"
+version = "1.0.0"
+description = "Predictive Mutation Testing at Scale - ACE-MT (active, calibrated, model-assisted estimation of mutation score)"
+requires-python = ">=3.10"
+dependencies = ["numpy", "pandas", "scipy", "scikit-learn", "xgboost", "lightgbm", "pyyaml", "matplotlib", "lxml"]
+
+[project.scripts]
+pmt = "pmt.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["pmt*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

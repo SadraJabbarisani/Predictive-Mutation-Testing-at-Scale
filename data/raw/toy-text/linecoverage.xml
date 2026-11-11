@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+<block classname='toy.text.Similarity' method='jaccard(Ljava/lang/String;Ljava/lang/String;)D' number='10'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='jaccard(Ljava/lang/String;Ljava/lang/String;)D' number='9'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='jaccard(Ljava/lang/String;Ljava/lang/String;)D' number='12'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='jaccard(Ljava/lang/String;Ljava/lang/String;)D' number='11'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='jaccard(Ljava/lang/String;Ljava/lang/String;)D' number='8'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='jaccard(Ljava/lang/String;Ljava/lang/String;)D' number='7'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='jaccard(Ljava/lang/String;Ljava/lang/String;)D' number='2'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='jaccard(Ljava/lang/String;Ljava/lang/String;)D' number='1'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='jaccard(Ljava/lang/String;Ljava/lang/String;)D' number='3'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='jaccard(Ljava/lang/String;Ljava/lang/String;)D' number='0'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='bigrams(Ljava/lang/String;)Ljava/util/Set;' number='0'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.SimilarityTest' method='&lt;init&gt;()V' number='0'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.SimilarityTest' method='jaccardSame()V' number='0'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='bigrams(Ljava/lang/String;)Ljava/util/Set;' number='1'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.SimilarityTest' method='&lt;init&gt;()V' number='1'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.SimilarityTest' method='jaccardSame()V' number='1'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='bigrams(Ljava/lang/String;)Ljava/util/Set;' number='2'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.SimilarityTest' method='jaccardSame()V' number='2'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='bigrams(Ljava/lang/String;)Ljava/util/Set;' number='3'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='bigrams(Ljava/lang/String;)Ljava/util/Set;' number='4'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='bigrams(Ljava/lang/String;)Ljava/util/Set;' number='5'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='bigrams(Ljava/lang/String;)Ljava/util/Set;' number='6'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='bigrams(Ljava/lang/String;)Ljava/util/Set;' number='7'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='jaccard(Ljava/lang/String;Ljava/lang/String;)D' number='13'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:jaccardSame()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='24'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='23'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='22'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='21'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='27'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='26'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='25'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='16'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='15'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='14'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='13'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='20'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='19'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='18'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='17'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='8'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='7'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='6'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='5'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='12'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='11'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='10'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='9'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='0'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='4'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='3'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='2'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Similarity' method='levenshtein(Ljava/lang/String;Ljava/lang/String;)I' number='1'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.SimilarityTest' method='lev()V' number='2'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.SimilarityTest' method='lev()V' number='0'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.SimilarityTest' method='lev()V' number='1'><tests>
+<test name='toy.text.SimilarityTest.[engine:junit-jupiter]/[class:toy.text.SimilarityTest]/[method:lev()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='2'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='1'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='0'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='&lt;init&gt;()V' number='0'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:reverse()]'/>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:truncateRuns()]'/>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:words()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='&lt;init&gt;()V' number='1'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:reverse()]'/>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:truncateRuns()]'/>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:words()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='11'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='capitalize()V' number='1'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='10'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='capitalize()V' number='0'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='9'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='8'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='7'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='6'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='5'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='4'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='19'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='18'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='17'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='16'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='15'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='14'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='13'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='12'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='capitalize()V' number='2'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='21'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='capitalize(Ljava/lang/String;)Ljava/lang/String;' number='20'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:capitalize()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='caesar(Ljava/lang/String;I)Ljava/lang/String;' number='4'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='caesar(Ljava/lang/String;I)Ljava/lang/String;' number='5'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='caesar(Ljava/lang/String;I)Ljava/lang/String;' number='2'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='caesar()V' number='0'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='caesar(Ljava/lang/String;I)Ljava/lang/String;' number='3'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='caesar(Ljava/lang/String;I)Ljava/lang/String;' number='0'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='caesar(Ljava/lang/String;I)Ljava/lang/String;' number='1'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='caesar()V' number='2'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='caesar()V' number='1'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='caesar(Ljava/lang/String;I)Ljava/lang/String;' number='6'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='caesar()V' number='4'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='caesar(Ljava/lang/String;I)Ljava/lang/String;' number='7'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='caesar()V' number='3'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='caesar(Ljava/lang/String;I)Ljava/lang/String;' number='16'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='caesar(Ljava/lang/String;I)Ljava/lang/String;' number='14'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='caesar(Ljava/lang/String;I)Ljava/lang/String;' number='15'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:caesar()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='wordCount(Ljava/lang/String;)I' number='4'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:words()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='wordCount(Ljava/lang/String;)I' number='5'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:words()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='wordCount(Ljava/lang/String;)I' number='6'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:words()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='wordCount(Ljava/lang/String;)I' number='0'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:words()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='words()V' number='3'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:words()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='wordCount(Ljava/lang/String;)I' number='1'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:words()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='words()V' number='4'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:words()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='wordCount(Ljava/lang/String;)I' number='2'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:words()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='words()V' number='1'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:words()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='wordCount(Ljava/lang/String;)I' number='3'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:words()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='words()V' number='2'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:words()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='words()V' number='0'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:words()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='truncate(Ljava/lang/String;I)Ljava/lang/String;' number='3'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:truncateRuns()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='truncate(Ljava/lang/String;I)Ljava/lang/String;' number='4'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:truncateRuns()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='truncateRuns()V' number='2'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:truncateRuns()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='truncateRuns()V' number='1'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:truncateRuns()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='truncateRuns()V' number='0'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:truncateRuns()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='truncate(Ljava/lang/String;I)Ljava/lang/String;' number='0'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:truncateRuns()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='truncate(Ljava/lang/String;I)Ljava/lang/String;' number='7'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:truncateRuns()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='truncate(Ljava/lang/String;I)Ljava/lang/String;' number='6'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:truncateRuns()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='reverse()V' number='4'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:reverse()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='reverse()V' number='2'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:reverse()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='reverse()V' number='3'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:reverse()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='reverse()V' number='0'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:reverse()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='reverse()V' number='1'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:reverse()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='reverse(Ljava/lang/String;)Ljava/lang/String;' number='4'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:reverse()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='reverse(Ljava/lang/String;)Ljava/lang/String;' number='5'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:reverse()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='reverse(Ljava/lang/String;)Ljava/lang/String;' number='2'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:reverse()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='reverse(Ljava/lang/String;)Ljava/lang/String;' number='3'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:reverse()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='reverse(Ljava/lang/String;)Ljava/lang/String;' number='0'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:reverse()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='reverse(Ljava/lang/String;)Ljava/lang/String;' number='1'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:reverse()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='isPalindrome(Ljava/lang/String;)Z' number='9'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='isPalindrome(Ljava/lang/String;)Z' number='10'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='isPalindrome(Ljava/lang/String;)Z' number='7'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='isPalindrome(Ljava/lang/String;)Z' number='8'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='isPalindrome(Ljava/lang/String;)Z' number='1'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='palindrome()V' number='3'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='isPalindrome(Ljava/lang/String;)Z' number='2'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='palindrome()V' number='4'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='palindrome()V' number='1'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='isPalindrome(Ljava/lang/String;)Z' number='0'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='palindrome()V' number='2'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='isPalindrome(Ljava/lang/String;)Z' number='5'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='isPalindrome(Ljava/lang/String;)Z' number='6'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+</tests>
+</block>
+<block classname='toy.text.StringsTest' method='palindrome()V' number='0'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='isPalindrome(Ljava/lang/String;)Z' number='3'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+</tests>
+</block>
+<block classname='toy.text.Strings' method='isPalindrome(Ljava/lang/String;)Z' number='4'><tests>
+<test name='toy.text.StringsTest.[engine:junit-jupiter]/[class:toy.text.StringsTest]/[method:palindrome()]'/>
+</tests>
+</block>
+</coverage>

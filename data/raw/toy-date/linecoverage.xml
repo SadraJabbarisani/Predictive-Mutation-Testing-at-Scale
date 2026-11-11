@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+<block classname='toy.date.SimpleDate' method='&lt;init&gt;(III)V' number='10'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='isBefore(Ltoy/date/SimpleDate;)Z' number='5'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='&lt;clinit&gt;()V' number='0'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='daysInMonth(II)I' number='5'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='daysInMonth(II)I' number='4'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='isBefore(Ltoy/date/SimpleDate;)Z' number='10'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='isBefore(Ltoy/date/SimpleDate;)Z' number='11'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='&lt;init&gt;()V' number='0'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:leap()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='isBefore(Ltoy/date/SimpleDate;)Z' number='13'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='before()V' number='4'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='before()V' number='1'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='before()V' number='0'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='before()V' number='3'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='&lt;init&gt;(III)V' number='0'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='before()V' number='2'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='&lt;init&gt;(III)V' number='1'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='&lt;init&gt;()V' number='1'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:leap()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='&lt;init&gt;(III)V' number='2'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='daysInMonth(II)I' number='0'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='&lt;init&gt;(III)V' number='5'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='isBefore(Ltoy/date/SimpleDate;)Z' number='0'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='&lt;init&gt;(III)V' number='6'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='&lt;init&gt;(III)V' number='7'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:before()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='isLeap(I)Z' number='0'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:leap()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='isLeap(I)Z' number='1'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:leap()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='isLeap(I)Z' number='5'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:leap()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='isLeap(I)Z' number='3'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:leap()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='doy()V' number='3'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='doy()V' number='1'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='doy()V' number='2'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='doy()V' number='0'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='daysInMonth(II)I' number='3'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='daysInMonth(II)I' number='2'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='dayOfYear()I' number='1'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='dayOfYear()I' number='0'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='dayOfYear()I' number='3'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='dayOfYear()I' number='2'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='dayOfYear()I' number='4'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='daysInMonth(II)I' number='1'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:doy()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='append(Ljava/lang/StringBuilder;JLjava/lang/String;)V' number='0'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='append(Ljava/lang/StringBuilder;JLjava/lang/String;)V' number='1'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='format(J)Ljava/lang/String;' number='6'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='append(Ljava/lang/StringBuilder;JLjava/lang/String;)V' number='8'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='format(J)Ljava/lang/String;' number='7'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='append(Ljava/lang/StringBuilder;JLjava/lang/String;)V' number='9'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='format(J)Ljava/lang/String;' number='8'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='append(Ljava/lang/StringBuilder;JLjava/lang/String;)V' number='6'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='format(J)Ljava/lang/String;' number='9'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='append(Ljava/lang/StringBuilder;JLjava/lang/String;)V' number='7'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='format(J)Ljava/lang/String;' number='10'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='append(Ljava/lang/StringBuilder;JLjava/lang/String;)V' number='4'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='format(J)Ljava/lang/String;' number='11'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='append(Ljava/lang/StringBuilder;JLjava/lang/String;)V' number='5'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='format(J)Ljava/lang/String;' number='12'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='append(Ljava/lang/StringBuilder;JLjava/lang/String;)V' number='2'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='append(Ljava/lang/StringBuilder;JLjava/lang/String;)V' number='3'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='fmt()V' number='1'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='format(J)Ljava/lang/String;' number='0'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='fmt()V' number='0'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='append(Ljava/lang/StringBuilder;JLjava/lang/String;)V' number='12'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='fmt()V' number='2'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='format(J)Ljava/lang/String;' number='3'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DurationFormatter' method='format(J)Ljava/lang/String;' number='5'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:fmt()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='leap()V' number='4'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:leap()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='leap()V' number='3'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:leap()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='leap()V' number='6'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:leap()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='leap()V' number='5'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:leap()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='isLeap(I)Z' number='4'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:leap()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='isLeap(I)Z' number='2'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:leap()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='leap()V' number='0'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:leap()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='leap()V' number='2'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:leap()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='leap()V' number='1'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:leap()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='plusDays(I)Ltoy/date/SimpleDate;' number='3'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='plusDays(I)Ltoy/date/SimpleDate;' number='2'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='plusDays(I)Ltoy/date/SimpleDate;' number='1'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='plusDays(I)Ltoy/date/SimpleDate;' number='0'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='plusDays(I)Ltoy/date/SimpleDate;' number='9'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='plusDays(I)Ltoy/date/SimpleDate;' number='8'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='plusDays(I)Ltoy/date/SimpleDate;' number='7'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='plusDays(I)Ltoy/date/SimpleDate;' number='6'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='plusDays(I)Ltoy/date/SimpleDate;' number='5'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.SimpleDate' method='plusDays(I)Ltoy/date/SimpleDate;' number='4'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='plus()V' number='1'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='plus()V' number='2'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='plus()V' number='3'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='plus()V' number='4'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+<block classname='toy.date.DateTest' method='plus()V' number='0'><tests>
+<test name='toy.date.DateTest.[engine:junit-jupiter]/[class:toy.date.DateTest]/[method:plus()]'/>
+</tests>
+</block>
+</coverage>

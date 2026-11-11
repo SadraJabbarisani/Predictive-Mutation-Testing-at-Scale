@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+java/subjects/*/target/
+java/subjects/*/pom.xml.bak
+java/subjects/commons-*/
+*.egg-info/
+dist/
+presentation/node_modules/
+team8_pmt_package.zip

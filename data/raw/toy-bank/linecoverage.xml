@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+<block classname='toy.bank.Account' method='deposit(J)V' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:depositIncreasesBalance()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='frozenRejectsDeposit()V' number='2'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='frozenRejectsDeposit()V' number='3'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='frozenRejectsDeposit()V' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='frozenRejectsDeposit()V' number='1'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='&lt;init&gt;()V' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:badId()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:depositIncreasesBalance()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='&lt;init&gt;()V' number='1'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:badId()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:depositIncreasesBalance()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='deposit(J)V' number='5'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='deposit(J)V' number='4'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='deposit(J)V' number='3'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:depositIncreasesBalance()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='&lt;init&gt;(Ljava/lang/String;J)V' number='6'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:depositIncreasesBalance()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='freeze()V' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='lambda$frozenRejectsDeposit$1(Ltoy/bank/Account;)V' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='&lt;init&gt;(Ljava/lang/String;J)V' number='9'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:depositIncreasesBalance()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='&lt;init&gt;(Ljava/lang/String;J)V' number='2'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:badId()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:depositIncreasesBalance()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='&lt;init&gt;(Ljava/lang/String;J)V' number='3'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:badId()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:depositIncreasesBalance()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='&lt;init&gt;(Ljava/lang/String;J)V' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:badId()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:depositIncreasesBalance()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='&lt;init&gt;(Ljava/lang/String;J)V' number='1'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:badId()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:depositIncreasesBalance()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:frozenRejectsDeposit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='getBalance()J' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:depositIncreasesBalance()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='deposit(J)V' number='6'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:depositIncreasesBalance()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='depositIncreasesBalance()V' number='3'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:depositIncreasesBalance()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='depositIncreasesBalance()V' number='4'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:depositIncreasesBalance()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='depositIncreasesBalance()V' number='1'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:depositIncreasesBalance()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='depositIncreasesBalance()V' number='2'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:depositIncreasesBalance()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='depositIncreasesBalance()V' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:depositIncreasesBalance()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='&lt;init&gt;(Ljava/lang/String;J)V' number='4'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:badId()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='&lt;init&gt;(Ljava/lang/String;J)V' number='5'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:badId()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='badId()V' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:badId()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='badId()V' number='1'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:badId()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='lambda$badId$3()V' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:badId()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='lambda$cannotOverdraw$0(Ltoy/bank/Account;)V' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='withdraw(J)V' number='6'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='withdraw(J)V' number='9'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='withdraw(J)V' number='11'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='withdraw(J)V' number='10'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='cannotOverdraw()V' number='2'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='cannotOverdraw()V' number='1'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='withdraw(J)V' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='withdraw(J)V' number='3'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='cannotOverdraw()V' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:cannotOverdraw()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='withdrawDecreasesBalance()V' number='5'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='withdrawDecreasesBalance()V' number='6'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='withdrawDecreasesBalance()V' number='3'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='withdrawDecreasesBalance()V' number='4'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='withdrawDecreasesBalance()V' number='1'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='withdrawDecreasesBalance()V' number='2'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='withdraw(J)V' number='12'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='withdrawDecreasesBalance()V' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='getWithdrawalsToday()I' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:withdrawDecreasesBalance()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='lambda$dailyLimit$2(Ltoy/bank/Account;)V' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='withdraw(J)V' number='7'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='withdraw(J)V' number='8'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='dailyLimit()V' number='6'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='dailyLimit()V' number='7'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='resetDay()V' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='dailyLimit()V' number='4'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='dailyLimit()V' number='5'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='dailyLimit()V' number='2'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='dailyLimit()V' number='3'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='dailyLimit()V' number='0'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.AccountTest' method='dailyLimit()V' number='1'><tests>
+<test name='toy.bank.AccountTest.[engine:junit-jupiter]/[class:toy.bank.AccountTest]/[method:dailyLimit()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='richest(I)Ljava/util/List;' number='1'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='richest(I)Ljava/util/List;' number='2'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='lambda$richest$0(Ltoy/bank/Account;Ltoy/bank/Account;)I' number='0'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='lambda$richest$0(Ltoy/bank/Account;Ltoy/bank/Account;)I' number='1'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='richest(I)Ljava/util/List;' number='0'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='lambda$richest$0(Ltoy/bank/Account;Ltoy/bank/Account;)I' number='2'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='richestRuns()V' number='0'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='richest(I)Ljava/util/List;' number='5'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='richest(I)Ljava/util/List;' number='6'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='&lt;init&gt;()V' number='0'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='richest(I)Ljava/util/List;' number='3'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='richest(I)Ljava/util/List;' number='4'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Account' method='getId()Ljava/lang/String;' number='0'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='&lt;init&gt;()V' number='1'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='lambda$richest$0(Ltoy/bank/Account;Ltoy/bank/Account;)I' number='3'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='richestRuns()V' number='1'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='richestRuns()V' number='2'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='richestRuns()V' number='3'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='richestRuns()V' number='4'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='richestRuns()V' number='5'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='richestRuns()V' number='6'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='richestRuns()V' number='7'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='&lt;init&gt;()V' number='3'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='&lt;init&gt;()V' number='2'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='&lt;init&gt;()V' number='1'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='&lt;init&gt;()V' number='0'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='open(Ljava/lang/String;J)Ltoy/bank/Account;' number='0'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='open(Ljava/lang/String;J)Ltoy/bank/Account;' number='1'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='open(Ljava/lang/String;J)Ltoy/bank/Account;' number='4'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='open(Ljava/lang/String;J)Ltoy/bank/Account;' number='5'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='open(Ljava/lang/String;J)Ltoy/bank/Account;' number='6'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:richestRuns()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='totalAssets()J' number='7'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='totalAssets()J' number='6'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='totalAssets()J' number='8'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='totalAssets()J' number='3'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='totalAssets()J' number='2'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='totalAssets()J' number='5'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='totalAssets()J' number='4'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='totalAssets()J' number='1'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='totalAssets()J' number='0'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='totalAssets()V' number='0'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='totalAssets()V' number='1'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='totalAssets()V' number='2'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='totalAssets()V' number='3'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='totalAssets()V' number='8'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='totalAssets()V' number='4'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='totalAssets()V' number='5'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='totalAssets()V' number='7'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:totalAssets()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='transactionCount()I' number='0'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='transactionCount()I' number='1'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='transferMovesMoney()V' number='1'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='transferMovesMoney()V' number='0'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='transferMovesMoney()V' number='7'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='transferMovesMoney()V' number='6'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='transferMovesMoney()V' number='9'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='transferMovesMoney()V' number='8'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='transferMovesMoney()V' number='3'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='transferMovesMoney()V' number='2'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='transferMovesMoney()V' number='5'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='transferMovesMoney()V' number='4'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='transferMovesMoney()V' number='11'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='transferMovesMoney()V' number='10'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.BankTest' method='transferMovesMoney()V' number='12'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='transfer(Ljava/lang/String;Ljava/lang/String;J)V' number='9'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='transfer(Ljava/lang/String;Ljava/lang/String;J)V' number='8'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='transfer(Ljava/lang/String;Ljava/lang/String;J)V' number='10'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='transfer(Ljava/lang/String;Ljava/lang/String;J)V' number='5'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='transfer(Ljava/lang/String;Ljava/lang/String;J)V' number='4'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='transfer(Ljava/lang/String;Ljava/lang/String;J)V' number='7'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='transfer(Ljava/lang/String;Ljava/lang/String;J)V' number='6'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='transfer(Ljava/lang/String;Ljava/lang/String;J)V' number='1'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='transfer(Ljava/lang/String;Ljava/lang/String;J)V' number='0'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='get(Ljava/lang/String;)Ltoy/bank/Account;' number='0'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='get(Ljava/lang/String;)Ltoy/bank/Account;' number='1'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Bank' method='get(Ljava/lang/String;)Ltoy/bank/Account;' number='4'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Transaction' method='&lt;init&gt;(Ljava/lang/String;Ljava/lang/String;J)V' number='1'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.Transaction' method='&lt;init&gt;(Ljava/lang/String;Ljava/lang/String;J)V' number='0'><tests>
+<test name='toy.bank.BankTest.[engine:junit-jupiter]/[class:toy.bank.BankTest]/[method:transferMovesMoney()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculatorTest' method='compoundGrows()V' number='2'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:compoundGrows()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculator' method='yearlyInterest(J)J' number='1'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:compoundGrows()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculator' method='yearlyInterest(J)J' number='0'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:compoundGrows()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculatorTest' method='compoundGrows()V' number='4'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:compoundGrows()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculatorTest' method='compoundGrows()V' number='5'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:compoundGrows()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculatorTest' method='compoundGrows()V' number='0'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:compoundGrows()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculatorTest' method='compoundGrows()V' number='1'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:compoundGrows()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculatorTest' method='&lt;init&gt;()V' number='0'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:compoundGrows()]'/>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:tiers()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculator' method='compound(JI)J' number='4'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:compoundGrows()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculator' method='rateBps(J)I' number='0'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:compoundGrows()]'/>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:tiers()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculator' method='compound(JI)J' number='3'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:compoundGrows()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculator' method='compound(JI)J' number='2'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:compoundGrows()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculatorTest' method='&lt;init&gt;()V' number='1'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:compoundGrows()]'/>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:tiers()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculator' method='compound(JI)J' number='1'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:compoundGrows()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculator' method='rateBps(J)I' number='3'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:compoundGrows()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculator' method='compound(JI)J' number='0'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:compoundGrows()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculator' method='rateBps(J)I' number='2'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:compoundGrows()]'/>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:tiers()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculatorTest' method='tiers()V' number='2'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:tiers()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculatorTest' method='tiers()V' number='3'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:tiers()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculatorTest' method='tiers()V' number='4'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:tiers()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculator' method='rateBps(J)I' number='4'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:tiers()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculator' method='rateBps(J)I' number='1'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:tiers()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculatorTest' method='tiers()V' number='0'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:tiers()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculatorTest' method='tiers()V' number='1'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:tiers()]'/>
+</tests>
+</block>
+<block classname='toy.bank.InterestCalculator' method='rateBps(J)I' number='5'><tests>
+<test name='toy.bank.InterestCalculatorTest.[engine:junit-jupiter]/[class:toy.bank.InterestCalculatorTest]/[method:tiers()]'/>
+</tests>
+</block>
+</coverage>

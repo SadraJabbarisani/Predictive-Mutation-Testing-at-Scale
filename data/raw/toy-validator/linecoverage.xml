@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+<block classname='toy.valid.ValidTest' method='&lt;init&gt;()V' number='0'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='&lt;init&gt;()V' number='1'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid10(Ljava/lang/String;)Z' number='1'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid10(Ljava/lang/String;)Z' number='0'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid10(Ljava/lang/String;)Z' number='5'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid10(Ljava/lang/String;)Z' number='4'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid10(Ljava/lang/String;)Z' number='2'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid10(Ljava/lang/String;)Z' number='9'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='isbn10()V' number='0'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid10(Ljava/lang/String;)Z' number='8'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='isbn10()V' number='1'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid10(Ljava/lang/String;)Z' number='7'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='isbn10()V' number='2'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid10(Ljava/lang/String;)Z' number='6'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid10(Ljava/lang/String;)Z' number='13'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid10(Ljava/lang/String;)Z' number='12'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid10(Ljava/lang/String;)Z' number='11'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid10(Ljava/lang/String;)Z' number='17'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid10(Ljava/lang/String;)Z' number='16'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid10(Ljava/lang/String;)Z' number='15'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid10(Ljava/lang/String;)Z' number='19'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn10()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid13(Ljava/lang/String;)Z' number='2'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='isbn13()V' number='2'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid13(Ljava/lang/String;)Z' number='1'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='isbn13()V' number='1'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid13(Ljava/lang/String;)Z' number='0'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='isbn13()V' number='4'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='isbn13()V' number='3'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid13(Ljava/lang/String;)Z' number='6'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid13(Ljava/lang/String;)Z' number='5'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid13(Ljava/lang/String;)Z' number='4'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='isbn13()V' number='0'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid13(Ljava/lang/String;)Z' number='10'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid13(Ljava/lang/String;)Z' number='8'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid13(Ljava/lang/String;)Z' number='7'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid13(Ljava/lang/String;)Z' number='14'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid13(Ljava/lang/String;)Z' number='13'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid13(Ljava/lang/String;)Z' number='12'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid13(Ljava/lang/String;)Z' number='11'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid13(Ljava/lang/String;)Z' number='17'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid13(Ljava/lang/String;)Z' number='16'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Isbn' method='isValid13(Ljava/lang/String;)Z' number='15'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:isbn13()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='19'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='18'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='21'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='20'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='15'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='14'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='17'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='16'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='11'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='13'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='12'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='7'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='6'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='9'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='8'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='2'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='5'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='4'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='1'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Luhn' method='isValid(Ljava/lang/String;)Z' number='0'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='luhn()V' number='1'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='luhn()V' number='0'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='luhn()V' number='3'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='luhn()V' number='2'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='luhn()V' number='4'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:luhn()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='31'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='email()V' number='3'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='27'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='email()V' number='4'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='30'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='email()V' number='1'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='email()V' number='2'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='24'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='23'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='26'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='25'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='20'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='19'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='22'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='15'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='18'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='17'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='12'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='11'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='14'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='13'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='8'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='7'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='10'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='9'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='3'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='6'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='5'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='0'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='2'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.Email' method='isValid(Ljava/lang/String;)Z' number='1'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='email()V' number='0'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:email()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='22'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='17'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='18'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='19'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='13'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='14'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='15'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='16'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='9'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='password()V' number='0'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='10'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='password()V' number='1'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='11'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='12'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='29'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='32'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='&lt;init&gt;(IZ)V' number='0'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='25'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='&lt;init&gt;(IZ)V' number='1'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='28'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='5'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='password()V' number='4'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='6'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='7'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='password()V' number='2'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='8'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.ValidTest' method='password()V' number='3'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='1'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='2'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+<block classname='toy.valid.PasswordPolicy' method='violations(Ljava/lang/String;)Ljava/util/List;' number='0'><tests>
+<test name='toy.valid.ValidTest.[engine:junit-jupiter]/[class:toy.valid.ValidTest]/[method:password()]'/>
+</tests>
+</block>
+</coverage>

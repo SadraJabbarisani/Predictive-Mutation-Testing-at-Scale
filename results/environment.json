@@ -1,0 +1,119 @@
+{
+  "python": "3.13.18",
+  "platform": "Linux-6.18.44-fc-v236-x86_64-with-glibc2.39",
+  "sklearn": "1.9.1",
+  "commit": "n/a",
+  "nproc": "4",
+  "time": "2026-11-05 08:02:34",
+  "xgboost": "3.4.1",
+  "lightgbm": "4.7.0",
+  "numpy": "2.5.3",
+  "pandas": "3.0.5",
+  "scipy": "1.18.1",
+  "config": {
+    "seed": 42,
+    "seeds": 30,
+    "paths": {
+      "raw": "data/raw",
+      "processed": "data/processed",
+      "subjects": "java/subjects.csv",
+      "results": "results"
+    },
+    "dataset": {
+      "source": "pit",
+      "generic_csv": null,
+      "synthetic": {
+        "n_projects": 12,
+        "mutants_per_project": [
+          300,
+          1500
+        ],
+        "seed": 7
+      }
+    },
+    "exploit_no_coverage": true,
+    "model": {
+      "name": "xgboost",
+      "params": {},
+      "calibration": "isotonic",
+      "feature_groups": [
+        "operator",
+        "static",
+        "coverage",
+        "oracle"
+      ]
+    },
+    "baselines": {
+      "pmt": {
+        "model": "rf"
+      },
+      "seshat_lite": {}
+    },
+    "budgets": [
+      0.05,
+      0.1,
+      0.2
+    ],
+    "methods": {
+      "random": {},
+      "stratified": {
+        "strata": "op_family"
+      },
+      "selective": {},
+      "pmt": {},
+      "seshat_lite": {},
+      "model_only": {},
+      "active_topk": {},
+      "ace": {
+        "rounds": 4,
+        "policy": "hybrid",
+        "mix": 0.3,
+        "adapt": "platt",
+        "neighbors": [],
+        "combine": true,
+        "ci": "normal"
+      }
+    },
+    "ablation": {
+      "feature_groups": [
+        "operator",
+        "static",
+        "coverage",
+        "oracle"
+      ],
+      "variants": {
+        "ace_uniform_sampling": {
+          "policy": "uniform"
+        },
+        "ace_uncertainty_only": {
+          "policy": "uncertainty"
+        },
+        "ace_no_adaptation": {
+          "adapt": "none"
+        },
+        "ace_no_combination": {
+          "combine": false
+        },
+        "ace_plus_neighbors": {
+          "neighbors": [
+            "line"
+          ]
+        },
+        "ace_single_round": {
+          "rounds": 1
+        },
+        "ace_uncalibrated_model": {
+          "_calibration": "none"
+        }
+      },
+      "budget": 0.1
+    },
+    "rq4": {
+      "n_suites": 20,
+      "keep_prob": 0.5,
+      "budget": 0.1,
+      "seeds": 5
+    },
+    "evaluate_heldout": true
+  }
+}

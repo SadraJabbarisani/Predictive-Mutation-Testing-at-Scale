@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+<block classname='toy.math.FractionTest' method='&lt;init&gt;()V' number='1'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:zero()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='&lt;init&gt;()V' number='0'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:zero()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='add(Ltoy/math/Fraction;)Ltoy/math/Fraction;' number='1'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='add(Ltoy/math/Fraction;)Ltoy/math/Fraction;' number='0'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='equals(Ljava/lang/Object;)Z' number='6'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='equals(Ljava/lang/Object;)Z' number='4'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='equals(Ljava/lang/Object;)Z' number='3'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='equals(Ljava/lang/Object;)Z' number='2'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='equals(Ljava/lang/Object;)Z' number='0'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='&lt;init&gt;(JJ)V' number='1'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:zero()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='&lt;init&gt;(JJ)V' number='4'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='&lt;init&gt;(JJ)V' number='6'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='&lt;init&gt;(JJ)V' number='8'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='&lt;init&gt;(JJ)V' number='7'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='&lt;init&gt;(JJ)V' number='0'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:zero()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='gcd(JJ)J' number='1'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='gcd(JJ)J' number='0'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='add()V' number='4'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='add()V' number='5'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='gcd(JJ)J' number='5'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='gcd(JJ)J' number='4'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='gcd(JJ)J' number='3'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='add()V' number='2'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='add()V' number='3'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='add()V' number='0'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='add()V' number='1'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:add()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='mul()V' number='4'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='mul()V' number='3'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='mul()V' number='2'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='mul()V' number='1'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='mul()V' number='5'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='mul()V' number='0'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='mul(Ltoy/math/Fraction;)Ltoy/math/Fraction;' number='0'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='mul(Ltoy/math/Fraction;)Ltoy/math/Fraction;' number='1'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:mul()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='toString()Ljava/lang/String;' number='0'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='toString()Ljava/lang/String;' number='1'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='toString()Ljava/lang/String;' number='3'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='str()V' number='3'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='str()V' number='2'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='str()V' number='1'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='str()V' number='0'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:str()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='&lt;init&gt;(JJ)V' number='2'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:zero()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='&lt;init&gt;(JJ)V' number='3'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:zero()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='zero()V' number='0'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:zero()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='zero()V' number='1'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:zero()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='lambda$zero$0()V' number='0'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:zero()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='normalize()V' number='3'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='normalize()V' number='2'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='normalize()V' number='1'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+</tests>
+</block>
+<block classname='toy.math.FractionTest' method='normalize()V' number='0'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+</tests>
+</block>
+<block classname='toy.math.Fraction' method='&lt;init&gt;(JJ)V' number='5'><tests>
+<test name='toy.math.FractionTest.[engine:junit-jupiter]/[class:toy.math.FractionTest]/[method:normalize()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='&lt;init&gt;()V' number='1'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:mean()]'/>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:median()]'/>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='&lt;init&gt;()V' number='0'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:mean()]'/>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:median()]'/>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='factorize(J)Ljava/util/List;' number='12'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='factorize(J)Ljava/util/List;' number='11'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='factorize(J)Ljava/util/List;' number='2'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='factorize(J)Ljava/util/List;' number='1'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='factorize(J)Ljava/util/List;' number='0'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='factor()V' number='4'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='factor()V' number='3'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='factor()V' number='6'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='factor()V' number='5'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='factorize(J)Ljava/util/List;' number='10'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='factor()V' number='0'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='factorize(J)Ljava/util/List;' number='9'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='factorize(J)Ljava/util/List;' number='8'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='factor()V' number='2'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='factorize(J)Ljava/util/List;' number='7'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='factor()V' number='1'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='factorize(J)Ljava/util/List;' number='6'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='factorize(J)Ljava/util/List;' number='5'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='factorize(J)Ljava/util/List;' number='4'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='factorize(J)Ljava/util/List;' number='3'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:factor()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='median()V' number='2'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:median()]'/>
+</tests>
+</block>
+<block classname='toy.math.Stats' method='median([D)D' number='1'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:median()]'/>
+</tests>
+</block>
+<block classname='toy.math.Stats' method='median([D)D' number='2'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:median()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='median()V' number='0'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:median()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='median()V' number='1'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:median()]'/>
+</tests>
+</block>
+<block classname='toy.math.Stats' method='median([D)D' number='4'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:median()]'/>
+</tests>
+</block>
+<block classname='toy.math.Stats' method='median([D)D' number='5'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:median()]'/>
+</tests>
+</block>
+<block classname='toy.math.Stats' method='median([D)D' number='0'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:median()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='isPrime(J)Z' number='6'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='isPrime(J)Z' number='7'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='isPrime(J)Z' number='8'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='primes()V' number='1'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='isPrime(J)Z' number='9'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='primes()V' number='0'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='isPrime(J)Z' number='10'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='primes()V' number='3'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='isPrime(J)Z' number='11'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='primes()V' number='2'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='isPrime(J)Z' number='12'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='primes()V' number='5'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='primes()V' number='4'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='primes()V' number='6'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='isPrime(J)Z' number='0'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='isPrime(J)Z' number='2'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='isPrime(J)Z' number='3'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='isPrime(J)Z' number='4'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:primes()]'/>
+</tests>
+</block>
+<block classname='toy.math.Stats' method='mean([D)D' number='4'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:mean()]'/>
+</tests>
+</block>
+<block classname='toy.math.Stats' method='mean([D)D' number='5'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:mean()]'/>
+</tests>
+</block>
+<block classname='toy.math.Stats' method='mean([D)D' number='3'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:mean()]'/>
+</tests>
+</block>
+<block classname='toy.math.Stats' method='mean([D)D' number='0'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:mean()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='mean()V' number='0'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:mean()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='mean()V' number='1'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:mean()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='mean()V' number='2'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:mean()]'/>
+</tests>
+</block>
+<block classname='toy.math.Stats' method='mean([D)D' number='6'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:mean()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='sieve(I)Ljava/util/List;' number='1'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='sieve(I)Ljava/util/List;' number='2'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='sieve(I)Ljava/util/List;' number='0'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='sieve()V' number='2'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='sieve()V' number='3'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='sieve()V' number='0'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='sieve()V' number='1'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='sieve(I)Ljava/util/List;' number='9'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='sieve()V' number='6'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='sieve(I)Ljava/util/List;' number='10'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='sieve()V' number='7'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='sieve(I)Ljava/util/List;' number='7'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='sieve()V' number='4'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='sieve(I)Ljava/util/List;' number='8'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.PrimesStatsTest' method='sieve()V' number='5'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='sieve(I)Ljava/util/List;' number='5'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='sieve(I)Ljava/util/List;' number='6'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='sieve(I)Ljava/util/List;' number='3'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+<block classname='toy.math.Primes' method='sieve(I)Ljava/util/List;' number='4'><tests>
+<test name='toy.math.PrimesStatsTest.[engine:junit-jupiter]/[class:toy.math.PrimesStatsTest]/[method:sieve()]'/>
+</tests>
+</block>
+</coverage>
